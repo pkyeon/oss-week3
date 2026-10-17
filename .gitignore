@@ -1,0 +1,5 @@
+# Ignore temporary practice files
+*.itm
+
+#Ignore generated build directories
+build/

@@ -1,3 +1,5 @@
+Branching practice is part of this repository
+
 # OSS Week 3
 
 ## Working with Git
